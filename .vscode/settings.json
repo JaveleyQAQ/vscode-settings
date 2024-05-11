@@ -15,7 +15,7 @@
   "editor.lineNumbers": "interval",
   "editor.renderWhitespace": "boundary",
   "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
-  "editor.columnSelection": true,
+  "editor.columnSelection": false,
   "editor.padding.top":2,
   "editor.smoothScrolling":true,
   "editor.showFoldingControls":"always",
